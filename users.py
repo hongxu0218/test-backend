@@ -1,2 +1,2 @@
 def user_create():
-    pass
+    print("fuck off")
